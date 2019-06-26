@@ -15,4 +15,5 @@ You can also run Face Recognition in Gitpod, a free online dev environment for G
 
 If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM2FQBMX
 
+OOPS, this isn't working quite yet :/
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Face-Recognition/blob/master/face_rec.py)
