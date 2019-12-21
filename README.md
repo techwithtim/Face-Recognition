@@ -13,7 +13,7 @@ You can watch this video to see how the code works: https://www.youtube.com/watc
 
 You can also run Face Recognition in Gitpod, a free online dev environment for GitHub:
 
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM2FQBMX
+If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
 
 OOPS, this isn't working quite yet :/
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Face-Recognition/blob/master/face_rec.py)
